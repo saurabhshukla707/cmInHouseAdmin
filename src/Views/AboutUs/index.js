@@ -1,0 +1,1 @@
+export { default as AboutRoutes } from "./Routes/config";

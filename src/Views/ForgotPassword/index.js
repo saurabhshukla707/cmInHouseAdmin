@@ -1,0 +1,1 @@
+export { default as ForgotPasswordRoutes } from "./Routes/config";

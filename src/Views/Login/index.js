@@ -1,0 +1,1 @@
+export { default as LoginRoutes } from "./Routes/config";
